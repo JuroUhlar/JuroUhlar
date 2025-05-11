@@ -4,7 +4,8 @@
   "description": "Contact info cli for Juraj Uhlar",
   "main": "index.js",
   "bin": {
-    "jurouhlar": "./index.js"
+    "jurouhlar": "./index.js",
+    "interactive": "./interactive.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
