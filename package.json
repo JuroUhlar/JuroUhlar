@@ -1,6 +1,7 @@
 {
   "name": "jurouhlar",
   "version": "1.0.0",
+  "type": "module",
   "description": "Contact info cli for Juraj Uhlar",
   "main": "index.js",
   "bin": {
@@ -24,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/JuroUhlar/JuroUhlar/issues"
   },
-  "homepage": "https://github.com/JuroUhlar/JuroUhlar#readme"
+  "homepage": "https://github.com/JuroUhlar/JuroUhlar#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0",
+    "cfonts": "^3.1.1",
+    "opn": "^6.0.0"
+  }
 }
