@@ -1,0 +1,24 @@
+{
+  "name": "jurouhlar",
+  "version": "1.0.0",
+  "description": "Contact info cli for Juraj Uhlar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuroUhlar/JuroUhlar.git"
+  },
+  "keywords": [
+    "person",
+    "contact",
+    "jurouhlar"
+  ],
+  "author": "Juraj Uhlar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuroUhlar/JuroUhlar/issues"
+  },
+  "homepage": "https://github.com/JuroUhlar/JuroUhlar#readme"
+}
