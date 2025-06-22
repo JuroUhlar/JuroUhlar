@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Contact info cli for Juraj Uhlar",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "jurouhlar": "./index.js",
     "interactive": "./interactive.js",

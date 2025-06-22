@@ -4,7 +4,8 @@
 // npx --yes jurouhlar/jurouhlar
 // Stolen with ❤️ from https://egghead.io/lessons/npm-execute-code-from-a-remote-github-branch-with-npx   
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
+
 const output = fs.readFileSync(path.join(__dirname, "README.md"), "utf8");
 console.log(output);
