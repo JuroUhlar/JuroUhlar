@@ -1,7 +1,6 @@
 {
   "name": "jurouhlar",
   "version": "1.0.0",
-  "type": "module",
   "description": "Contact info cli for Juraj Uhlar",
   "main": "index.js",
   "bin": {
