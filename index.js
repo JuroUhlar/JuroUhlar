@@ -6,6 +6,8 @@
 
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const output = fs.readFileSync(path.join(__dirname, "README.md"), "utf8");
 console.log(output);
